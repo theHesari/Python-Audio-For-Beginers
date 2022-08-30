@@ -8,6 +8,9 @@ matplotlib   -> https://matplotlib.org/stable/users/installing/index.html
 ffmpeg       -> https://www.ffmpeg.org/download.html
 pydub        -> https://pypi.org/project/pydub/
 
+Extensions:
+audio-preview : play wave files
+
 
 NOTICE!
 If you get missing modules errors !
