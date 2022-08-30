@@ -1,2 +1,2 @@
 # Python-Audio-For-Beginers
-Load-Record-Convert-Plot a stereo wave audio
+Load-Record-Convert-Plot an stereo wave audio
