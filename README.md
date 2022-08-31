@@ -1,4 +1,4 @@
-# Python-Audio-For-Beginers
+# Python-Audio-For-Beginners
 Load-Record-Convert-Plot an stereo wave audio
 
 Modules to be installed:
